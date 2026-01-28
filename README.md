@@ -1,28 +1,30 @@
 # 💫 About Me:
 
-I'm a Software Engineering student specializing in AI-integrated web applications built on the MERN stack. My focus lies in developing production-ready systems where artificial intelligence enhances core functionality—moving beyond experimentation to deliver tangible, user-facing features that solve real problems.
+I’m a Software Engineering student specializing in AI-integrated web applications built on the MERN stack. My focus lies in developing production-ready systems where artificial intelligence enhances core functionality—moving beyond experimentation to deliver tangible, user-facing features that solve real problems.
 
-**Areas of Expertise**
+Areas of Expertise
 AI-Integrated Web Applications: I design and build interactive systems where AI serves as a fundamental component of the user experience, similar to platforms like Speak that seamlessly blend learning and interaction through intelligent features.
+
 Full-Stack MERN Development: Proficient in MongoDB, Express.js, React, and Node.js, I construct robust full-stack architectures specifically engineered to support and scale AI-driven functionalities.
+
 AI Implementation & Optimization: My work encompasses prompt engineering, intelligent response handling, state management, and ensuring AI outputs maintain consistency and reliability in production environments.
 
-
-**Development Philosophy**
+Development Philosophy
 I approach development holistically, architecting systems where frontend user experience, backend logic, and AI behavior function as an integrated whole rather than isolated components. My work prioritizes:
 
 User-Centric AI Design: Creating interfaces where AI enhances usability rather than complicating it
 Systems Thinking: Building scalable architectures that support the full lifecycle of AI features
 Iterative Excellence: Continuous refinement through building, testing, and learning
 
-**Current Focus**
+Current Focus
+
 Developing sophisticated AI-powered MERN applications for production deployment
 Engineering robust systems for structuring, validating, and presenting AI-generated content
 Designing scalable backend architectures optimized for AI feature integration
 Advancing techniques in prompt engineering and response reliability
 
 Professional Vision
-My goal is to establish myself as a leading AI-focused full-stack developer, creating products where intelligence is architecturally embedded from conception—not retrofitted as a superficial enhancement. I'm committed to building the next generation of web applications where AI fundamentally elevates what's possible for users.
+My goal is to establish myself as a leading AI-focused full-stack developer, creating products where intelligence is architecturally embedded from conception—not retrofitted as a superficial enhancement. I’m committed to building the next generation of web applications where AI fundamentally elevates what’s possible for users.
 
 
 ## 🌐 Socials:
